@@ -10,7 +10,7 @@ class Instructions():
     OTHER = ["return"] # "template"
     SPECIAL_TYPES = ["arrayref", "structref", "funcref"]
     TYPES = [
-        "abilcmd", "actor", "actorscope", "aifilter", "animfilter", "bank", "bool", "byte", "camerainfo", "char", "color", "doodad", "fixed", "handle", "generichandle", "effecthistory", "int", "marker", "order", "playergroup", "point", "region", "revealer", "sound", "soundlink", "string", "text", "timer", "transmissionsource", "trigger", "unit", "unitfilter", "unitgroup", "unitref", "void", "wave", "waveinfo", "wavetarget", "arrayref", "structref", "funcref"
+        "abilcmd", "actor", "actorscope", "aifilter", "animfilter", "bank", "bitmask", "bool", "byte", "camerainfo", "char", "color", "doodad", "fixed", "handle", "generichandle", "effecthistory", "int", "marker", "order", "playergroup", "point", "region", "revealer", "sound", "soundlink", "string", "text", "timer", "transmissionsource", "trigger", "unit", "unitfilter", "unitgroup", "unitref", "void", "wave", "waveinfo", "wavetarget", "arrayref", "structref", "funcref"
     ]
     BOOL = ["true", "false"]
     NULL = ["null"]
